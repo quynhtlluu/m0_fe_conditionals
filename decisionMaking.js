@@ -35,21 +35,28 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
-//
+// At the beginning of this code, we have defined a condition in relation to the variable `doorChoice` for the program to run.
+// The condition states that if `doorChoice` is strictly equal to 1, the other variable `bearClothing` will be assigned to the string "hat".
+// If the condition is not met or is false, the other variable `bearClothing` will be assigned to the string "scarf".
 
 // 2. What variable has a new value assigned to it after the first if statement executes?
-//
+// var bearClothing
 
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-//
+// "scarf"
 
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
-//
+// At the beginning of this code, we have defined a condition in relation to the variable `bearChoice` for the program to run.
+// The condition states that if `bearChoice` is strictly equal to 1, the program will run and print out a statement about a bear and a secret passage. This statement will also reference the value determined earlier for bearClothing.
+// The condition states that if `bearChoice` is strictly equal to 2 instead, the program will run and print out a statement about a bear crying. This statement will also reference the value determined earlier for bearClothing.
+// The condition states that if `bearChoice` is strictly equal to 3 instead, the program will run and print out a statement about running to the next room.
+// If none of the conditions above are met or are false, the program will run and print out a statement about staying with a bear and becoming its friend.
 
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-//
+// The condition states that if `bearChoice` is strictly equal to 3, the program will run and print out a statement about running to the next room.
 
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-//
+// The condition states that if `bearChoice` is strictly equal to 2, the program will run and print out a statement about a bear crying. This statement will also reference the value determined earlier for bearClothing--which is a hat in this case.
 
 // 7. What is your favorite ending?
+//I like the ending where I become friends with the bear.
