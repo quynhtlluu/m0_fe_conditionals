@@ -35,9 +35,21 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+//
+
 // 2. What variable has a new value assigned to it after the first if statement executes?
+//
+
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+//
+
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+//
+
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+//
+
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+//
+
 // 7. What is your favorite ending?
