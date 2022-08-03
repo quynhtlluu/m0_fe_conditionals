@@ -108,15 +108,20 @@ var age = 1;
 
 // YOU DO:
 // Determine if the dog loves to play and loves treats
-
+console.log(lovesToPlay && lovesTreats);
 
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
+var isPuppy = true;
+console.log(lovesToPlay && isPuppy);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
+//My final line of code evaluated to `true`. I think is this because the values of both of the variables
+//are `true`. With using an `&&` operator, both bathriables ahve to be `true`
+//in order to have the result be `true` from performing the operation.
